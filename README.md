@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EngQutaibahKhalil
+- 👋 Hi, I’m @QutaibahKhalil
 - 👀 I’m interested in Flutter | UI/UX Design 
 - 🌱 I’m currently learning C# & .NET
 - 📫 How to reach me: https://gravatar.com/qutaibahkhalil
